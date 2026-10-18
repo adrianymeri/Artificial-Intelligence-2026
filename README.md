@@ -3,7 +3,7 @@
 
 ## Pjesa e ushtrimeve: Literatura dhe rezultatet e të mësuarit
 
-Ky dokument përmbledh temat, literaturën dhe rezultatet e të mësuarit për ushtrimet e lëndës **Inteligjenca Artificiale (AI)**.
+Ky dokument përmbledh temat, literaturën dhe rezultatet e të mësuarit në kuadër të ushtrimeve nga **Inteligjenca Artificiale (AI)**.
 
 ---
 
